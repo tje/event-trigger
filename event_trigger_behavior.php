@@ -12,7 +12,7 @@ App::import('Vendor', 'Hash', array('file' => 'cake/Hash.php'));
  * @subpackage behaviors
  * @uses EventTrigger
  * @uses Hash
- * @author Tyler Ellis <tyler.ellis@voicemediagroup.com>
+ * @author Tyler Ellis <modem@kingofdemons.com>
  */
 class EventTriggerBehavior extends ModelBehavior {
     
